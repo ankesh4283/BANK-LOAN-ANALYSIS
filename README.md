@@ -10,7 +10,7 @@ This project demonstrates:
 - Credit risk segmentation  
 - Trend and growth analysis  
 - Portfolio monitoring logic  
-- Executive-level dashboard reporting  
+- Executive-level dashboard reporting
 
 ---
 
